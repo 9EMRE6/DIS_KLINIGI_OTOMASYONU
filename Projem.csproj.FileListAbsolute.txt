@@ -1,0 +1,10 @@
+C:\Users\9emre\OneDrive\Masaüstü\Proje\Projem\Projem\bin\Debug\Projem.exe.config
+C:\Users\9emre\OneDrive\Masaüstü\Proje\Projem\Projem\bin\Debug\Projem.exe
+C:\Users\9emre\OneDrive\Masaüstü\Proje\Projem\Projem\bin\Debug\Projem.pdb
+C:\Users\9emre\OneDrive\Masaüstü\Proje\Projem\Projem\obj\Debug\Projem.csproj.AssemblyReference.cache
+C:\Users\9emre\OneDrive\Masaüstü\Proje\Projem\Projem\obj\Debug\Projem.Form1.resources
+C:\Users\9emre\OneDrive\Masaüstü\Proje\Projem\Projem\obj\Debug\Projem.Properties.Resources.resources
+C:\Users\9emre\OneDrive\Masaüstü\Proje\Projem\Projem\obj\Debug\Projem.csproj.GenerateResource.cache
+C:\Users\9emre\OneDrive\Masaüstü\Proje\Projem\Projem\obj\Debug\Projem.csproj.CoreCompileInputs.cache
+C:\Users\9emre\OneDrive\Masaüstü\Proje\Projem\Projem\obj\Debug\Projem.exe
+C:\Users\9emre\OneDrive\Masaüstü\Proje\Projem\Projem\obj\Debug\Projem.pdb
